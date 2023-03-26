@@ -25,4 +25,4 @@
 <hr>
 <p><img align="left" height="175px"  width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-gupta09&show_icons=true&locale=en&layout=compact" alt="vaibhav-gupta09" /></p>
 
-<p>&nbsp;<img align="right" height="185px" src="https://github-readme-stats.vercel.app/api?username=vaibhav-gupta09&show_icons=true&locale=en" alt="vaibhav-gupta09" /></p>
+<p>&nbsp;<img align="center" height="185px" src="https://github-readme-stats.vercel.app/api?username=vaibhav-gupta09&show_icons=true&locale=en" alt="vaibhav-gupta09" /></p>
